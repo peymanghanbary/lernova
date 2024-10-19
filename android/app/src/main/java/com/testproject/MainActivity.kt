@@ -1,4 +1,4 @@
-package com.amega.test
+package com.lernova.test
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
