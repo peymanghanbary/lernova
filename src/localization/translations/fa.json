@@ -1,0 +1,20 @@
+{
+    "language": "فارسی",
+    "direction": "rtl",
+    "screens": {
+        "memoryGame": "بازی حافظه",
+        "settings": "تنظیمات"
+    },
+    "Matches": "همسان",
+    "Lernova Task": "تسک لرنوا",
+    "Memory Game": "بازی حافظه",
+    "Language Selection": "انتخاب زبان",
+    "Dark Mode": "حالت تاریک",
+    "System Theme": "پوسته سیستم",
+    "Congratulations": "تبریک",
+    "You Won": "شما بردید",
+    "Restart": "شروع مجدد",
+    "farsi":"فارسی",
+    "english":"لاتین",
+    "langAbr":"fa"
+}

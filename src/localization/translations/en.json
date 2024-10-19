@@ -1,0 +1,20 @@
+{
+    "language": "english",
+    "direction": "ltr",
+    "screens": {
+        "memoryGame": "Memory Game",
+        "settings": "Settings"
+    },
+    "Matches": "Matches",
+    "Lernova Task": "Lernova Task",
+    "Memory Game": "Memory Game",
+    "Language Selection": "Language Selection",
+    "Dark Mode": "Dark Mode",
+    "System Theme": "System Theme",
+    "Congratulations": "Congratulations",
+    "You Won": "You Won",
+    "Restart": "Restart",
+    "farsi":"farsi",
+    "english":"english",
+    "langAbr":"en"
+}
